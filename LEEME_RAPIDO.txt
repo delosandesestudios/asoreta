@@ -1,0 +1,5 @@
+SUBE ESTA CARPETA A VERCEL
+
+Esta versión lleva la interactividad dentro de index.html. Sube la carpeta completa con index.html y assets/. No necesitas app.js ni styles.css separados.
+
+En Vercel elige Other/Static HTML y deja vacío el comando de build.
